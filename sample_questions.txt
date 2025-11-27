@@ -1,0 +1,28 @@
+Simplified USSD Questions for Diabetes Risk Screening 
+1.  Basic                   Information (Numerical & Binary)
+#   Data                    ColumnSimplified Question (Short, Clear)                                    Expected User Input
+1   Age                     How old are you? (Please enter your age in numbers.)                        A number (e.g., 40)
+2   Gender                  Are you Male or Female?                                                     1. Male 2. Female
+
+
+2. Common Symptoms (Binary Yes/No Questions)
+For these questions, the instruction should be clear: "Type 1 for Yes, or 2 for No."
+
+3	Polydipsia	            Do you feel very thirsty all the time?	                                    1 or 2
+4	Polyuria	            Do you need to pee (urinate) very often?	                                1 or 2
+5	Polyphagia	            Do you feel very hungry all the time?	                                    1 or 2
+6	sudden weight loss	    Have you lost weight without trying or changing your diet?	                1 or 2
+7	weakness	            Do you often feel tired or weak?	1 or 2
+8	visual blurring	        Do you sometimes have blurry vision or difficulty seeing clearly?	        1 or 2
+9	Irritability	        Do you feel easily annoyed or moody more often than before?	                1 or 2
+10	partial paresis	        Do you have weakness or numbness in parts of your arms or legs?	            1 or 2
+11	muscle stiffness	    Do your muscles often feel stiff or tight?	                                1 or 2
+12	Itching	                Do you often have skin itching that won't go away?	                        1 or 2
+13	Alopecia	            Are you losing more hair than usual?	                                    1 or 2
+
+
+3. Related Conditions (Binary Yes/No Questions)
+
+14	delayed healing	        Do cuts, sores, or wounds take a long time to heal?	                        1 or 2
+15	Genital thrush	        Do you often have problems like redness or itching in your private areas?	1 or 2
+16	Obesity	                Are you overweight for your height? (Do you consider yourself obese?)	    1 or 2
