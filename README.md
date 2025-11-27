@@ -30,7 +30,7 @@ The [prototype](https://github.com/KehindeOladele/DIAKEN/blob/main/developers.af
 ![Image](https://github.com/user-attachments/assets/c62c2656-9c4c-4873-87de-f5aa5bb35e4b)
 
 ## Results
-The predictions if its a 0 for no diabetes, the message on the screen should be: "You are at low risk of having diabetes, please contact your nearest hospital for confirmation". If its a 1 for yes diabetes, the message ont he screen should be: "You are at high risk of having diabetes, please visit the nearest hospital as soon as possible".
+The predictions if its a 0 for no diabetes, the message on the screen should be: "Your Diabetes Risk Screening is complete. Result: {risk_level}.\n\nKeep it UP!!! Eat Healthy, Exercise More, Live Healthy". If its a 1 for yes diabetes, the message ont he screen should be: "Your Diabetes Risk Screening is complete. Result: High Risk Please consult a doctor".
 
 ## Tools Used
 * Azure Machine Learning - For data cleaning, preprocessing, model training and deployment.
