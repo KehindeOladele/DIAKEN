@@ -23,7 +23,7 @@ The diabetes risk prediction [model](https://github.com/KehindeOladele/DIAKEN/bl
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3b67475e-a85a-4af9-bd3f-c39668ec11a0" />
 
 ## Backend
-The [backend]() was created using Python and Azure Function App.
+The [backend](https://github.com/KehindeOladele/DIAKEN/blob/main/ussd_function/function.json) was created using Python and Azure Function App.
 
 ## Prototype
 The [prototype](https://github.com/KehindeOladele/DIAKEN/blob/main/DIaken%20Africa's%20Talking%20interface.jpg) was created using Africa's Talking.
@@ -43,7 +43,7 @@ The predictions if its a 0 for no diabetes, the message on the screen should be:
 
 * Microsoft Edge - For research and collaboration.
 
-* Zoom - For recording the demo video.
+* Zoom - For recording the [demo video](https://github.com/KehindeOladele/DIAKEN/blob/main/Demo%20Video.mp4).
 
 * Google chrome, drive, docs for research, workflow and documentation.
 
