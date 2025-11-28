@@ -26,7 +26,7 @@ The diabetes risk prediction [model](https://github.com/KehindeOladele/DIAKEN/bl
 The [backend]() was created using Python and Azure Function App.
 
 ## Prototype
-The [prototype](https://github.com/KehindeOladele/DIAKEN/blob/main/developers.africastalking.com.jpeg) was created using Africa's Talking.
+The [prototype](https://github.com/KehindeOladele/DIAKEN/blob/main/DIaken%20Africa's%20Talking%20interface.jpg) was created using Africa's Talking.
 ![Image](https://github.com/user-attachments/assets/a4892432-f6a9-46b3-9de8-210328dacb44)
 
 ## Results
